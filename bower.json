@@ -1,6 +1,6 @@
 {
   "name": "angular-boilerplate-selection-search",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "angular": "1.2.21",
     "json3": "~3.3.1",
